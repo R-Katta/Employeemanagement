@@ -85,7 +85,7 @@ DATABASES = {
         'USER': 'admin',
         'PASSWORD': 'admin123',
         'HOST': 'employeemanagement.c6fwdwza8jes.us-east-1.rds.amazonaws.com',   # Or an IP Address that your DB is hosted on
-        'PORT': '',
+        'PORT': '3306',
     }
 }
 
